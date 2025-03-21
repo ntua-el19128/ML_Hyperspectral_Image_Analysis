@@ -34,5 +34,5 @@ The objective of this project is to perform unsupervised learning on a hyperspec
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ml-lab2-hyperspectral-clustering.git
-   cd ml-lab2-hyperspectral-clustering
+   git clone https://github.com/your-username/ml_unsupervised_hyperspectral_images.git
+   cd ml_unsupervised_hyperspectral_images
